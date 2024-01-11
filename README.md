@@ -29,17 +29,16 @@ M (1000)
 # Error Handling
 The program includes error handling to ensure valid input. If an error occurs, an error message will be displayed.
 
-Invalid Character in Input:
+1. Invalid Character in Input:
+Message: "Invalid character in input. Valid characters are I, V, X, L, C, D, M."
 
-1. Message: "Invalid character in input. Valid characters are I, V, X, L, C, D, M."
-  Two Consecutive Subtractions:
+2. Two Consecutive Subtractions:
+Message: "Invalid numeral: two consecutive subtractions."
 
-2. Message: "Invalid numeral: two consecutive subtractions."
-Can't Subtract Auxiliary Symbol:
+3. Can't Subtract Auxiliary Symbol:
+Message: "Invalid numeral: can't subtract auxiliary symbol."
 
-3. Message: "Invalid numeral: can't subtract auxiliary symbol."
-Additions Don't Decrease:
-
-4. Message: "Invalid numeral: additions don't decrease."
+4. Additions Don't Decrease:
+Message: "Invalid numeral: additions don't decrease."
 
 Feel free to contribute or report issues if you encounter any problems!
